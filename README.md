@@ -15,7 +15,7 @@ Para executar o projeto siga os passos abaixo:
 4) digite npm install
 5) digite node transpiler.js
 
-Os passos acima ira converter o código abaixo para Python.
+Os passos acima permitirá converter o código abaixo para Python.
 
 ```
 function printValues(value)
