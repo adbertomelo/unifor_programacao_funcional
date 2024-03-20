@@ -10,10 +10,10 @@ O projeto está concentrado nos requisitos propostos pelo documento disponibiliz
 Para executar o projeto siga os passos abaixo:
 
 1) crie uma pasta para salvar o projeto
-2) dentro da pasta digite git clone https://github.com/adbertomelo/unifor_programacao_funcional.git
-3) digite cd unifor_programacao_funcional
-4) digite npm install
-5) digite node transpiler.js
+2) dentro da pasta digite: git clone https://github.com/adbertomelo/unifor_programacao_funcional.git
+3) digite: cd unifor_programacao_funcional
+4) digite: npm install
+5) digite: node transpiler.js
 
 Os passos acima permitirá converter o código abaixo para Python.
 
