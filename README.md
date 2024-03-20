@@ -17,7 +17,8 @@ Para executar o projeto siga os passos abaixo:
 
 Os passos acima ira converter o código abaixo para Python.
 
-"function printValues(value)
+```
+function printValues(value)
    {
       if (value <= 0)
       {
@@ -34,5 +35,6 @@ Os passos acima ira converter o código abaixo para Python.
 
    var value = Number(prompt('Digite um valor'));
       
-   printValues(value); "   
+   printValues(value);
+```   
    
